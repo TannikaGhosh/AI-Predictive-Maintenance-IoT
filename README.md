@@ -125,6 +125,15 @@ AI-Predictive-Maintenance-IoT/
 - **Phase 10 – Final Output:** Project presentation and documentation.
 
 
+## M. Screenshots / Outputs 🖼️
+
+1. **Final Dashboard Output:**  
+![Dashboard Final](images/dashboard_final.png)
+
+2. **Confusion Matrix:**  
+![Confusion Matrix](images/confusion_matrix.png)
+
+
 ### Learning Outcomes 🧠
 - Mastering time-series and sensor data processing.
 - Implementing End-to-End Machine Learning pipelines.
