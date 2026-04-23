@@ -124,18 +124,6 @@ AI-Predictive-Maintenance-IoT/
 - **Phase 9 – GitHub Publishing:** Commit and push. (Why: Sharing and version control. Output: Live repo.)
 - **Phase 10 – Final Output:** Project presentation and documentation.
 
-## M. Screenshots / Outputs / Demo Assets (Proof Checklist) 🖼️
-
-*Ensure to save the following in the `images/` folder and link them below as you complete the project:*
-
-1. **Dataset Preview:** `images/dataset_preview.png`
-2. **Preprocessing Output:** `images/preprocessing.png`
-3. **Model Training Logs:** `images/training_logs.png`
-4. **Prediction Output:** `images/prediction_output.png`
-5. **Failure Detection Graph:** `images/failure_graph.png`
-6. **Confusion Matrix:** `images/confusion_matrix.png`
-7. **Final Dashboard Output:** `images/dashboard_final.png`
-8. **GitHub Repo Preview:** `images/repo_preview.png`
 
 ### Learning Outcomes 🧠
 - Mastering time-series and sensor data processing.
