@@ -96,7 +96,6 @@ def main():
         "failure_graph.png", 
         "prediction_output.png", 
         "preprocessing.png", 
-        "repo_preview.png", 
         "training_logs.png"
     ]
     
